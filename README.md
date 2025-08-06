@@ -1,2 +1,2 @@
 # Analog_Clock
-#learning js projects
+learning js through free sources - projects
