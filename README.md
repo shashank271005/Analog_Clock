@@ -1,5 +1,5 @@
 # Analog_Clock
 learning js through free sources - projects
 <div align="center">
-  <img src="https://res.cloudinary.com/dkdstxw96/image/upload/v1754467272/analog_clock_fcmmnu.gif/analog_clock.gif" width="600"/>
+  <img src="https://res.cloudinary.com/dkdstxw96/image/upload/v1754467272/analog_clock_fcmmnu.gif/" width="600"/>
 </div>
